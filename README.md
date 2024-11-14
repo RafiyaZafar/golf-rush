@@ -59,3 +59,7 @@ Welcome to Golf Rush! Dive into a thrilling 9-hole 2D golf adventure created wit
    git push origin feature/your-feature-name
 
 5. Open a pull request and describe your changes.
+
+ ## Screenshots (PWA): 
+ ![alt text](screenshots/1.png)
+ ![alt text](screenshots/2.png)
